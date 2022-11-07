@@ -46,9 +46,9 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Radu and I'm a robotics software engineer. I hold a master of science in robotics from [Ecole Polytechnique de Montreal](https://www.polymtl.ca/).  
+  Hi, my name's Radu and I'm a robotics software engineer. I hold a master of science in robotics from [Ecole Polytechnique de Montreal](https://www.polymtl.ca/). As well working in research I also have experience working in an agile team delivering production code for robotic applications.   
 
   I am most skilled in: <mark>C++</mark>, <mark>Python</mark> and  <mark>ROS</mark>
 
