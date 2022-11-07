@@ -70,7 +70,20 @@ content:
         description: | # this will include new lines to allow paragraphs
             I helped develop the overall platform and the motion planning framework for autonomous robotic arms supporting robots like the FANUC or the UR.
 
-            Skills: <mark>C++</mark> <mark>Python</mark> <mark>Ubuntu</mark> <mark>Cmake</mark> <mark>Algorithms</mark> <mark>SOLID design</mark> <mark>Gtest</mark> <mark>Gmock</mark> <mark>pytest</mark> <mark>Git</mark> <mark>Agile (retro, daily, planning, sprint reviews)</mark> <mark>Multithreading</mark> <mark>Networking</mark> <mark>OMPL</mark> <mark>Moveit</mark> <mark>Docker</mark>
+            Skills: <mark>C++</mark> <mark>Python</mark> <mark>Ubuntu</mark> <mark>Cmake</mark> <mark>Algorithms</mark> <mark>SOLID design</mark> <mark>Gtest</mark> <mark>Gmock</mark> <mark>pytest</mark> <mark>Git</mark> <mark>Agile (retro, daily, planning, sprint reviews)</mark> <mark>Multithreading</mark> <mark>Networking</mark> <mark>OMPL</mark> <mark>Moveit</mark> <mark>Docker</mark> <mark>Robotics simulation</mark>
+
+      - layout: left
+        title: Humanitas Solutions
+        link: humanitas.io
+        # link_text: boringcompany.com
+        sub_title: Robotics Software Engineer
+        caption: May 2020 - October 2020
+        quote: >
+          Using technology to help connect people. 
+        description: | # this will include new lines to allow paragraphs
+            During the 2020 pandemic, I helped create a geolocation solution for indoor localization of doctors and patients in hospitals.
+
+            Skills:  <mark>C++</mark> <mark>C programming for embedded DWM1001 modules</mark> <mark>Python</mark> <mark>Ubuntu</mark> <mark>UWB</mark> <mark>Range-based localization algorithms</mark> <mark>Docker</mark> <mark>Git</mark>  <mark>Gazebo</mark> <mark>Robotics simulation</mark>
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
