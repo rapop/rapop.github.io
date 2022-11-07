@@ -103,7 +103,9 @@ content:
             Software architecture:   
             ![Software architecture](/images/software_architecture.png "Software architecture")
 
-            
+            Hitting motion in simulation and on the real quadrotor:
+            ![VREP simulation](/images/Vrep simulation.gif "VREP simulation")   
+            ![Hitting motion](/images/hitting_motion.gif "Hitting motion")
 
 
   - title: Projects # Title for the section
