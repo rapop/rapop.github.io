@@ -51,7 +51,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Radu and I'm a robotics software engineer. I hold a master of science in robotics from [Ecole Polytechnique de Montreal](https://www.polymtl.ca/){:target="_blank" rel="noopener"}. As well working in research I also have experience working in an agile team delivering production code for robotic applications.   
+  Hi, my name's Radu and I'm a robotics software engineer. I hold a master of science in robotics from [Ecole Polytechnique de Montreal](https://www.polymtl.ca/){:target="_blank" rel="noopener"}. As well as working in research I also have experience working in an agile team delivering production code for robotic applications.   
 
   I am most skilled in: <mark>C++</mark>, <mark>Python</mark> and  <mark>ROS</mark>
 
@@ -107,9 +107,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+
       - Rock climbing
+
       - Gaming
+
       - Knitting
+      
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
