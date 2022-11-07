@@ -49,7 +49,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile2.jpg
+about_profile_image: images/profile4.pnj
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Radu and I'm a robotics software engineer. I hold a master of science in robotics from [Ecole Polytechnique de Montreal](https://www.polymtl.ca/){:target="_blank" rel="noopener"}. As well as working in research I also have experience working in an agile team delivering production code for robotic applications.   
 
@@ -99,6 +99,12 @@ content:
             I published an [article](https://www.sciencedirect.com/science/article/abs/pii/S0957415821000015#!){:target="_blank" rel="noopener"} about it in Mechatronics Journal. 
 
             Skills: <mark>C++</mark> <mark>Python</mark> <mark>ROS</mark> <mark>Gazebo</mark> <mark>Ubuntu</mark> <mark>Control algorithms</mark> <mark>iLQR</mark> <mark>Robotics hardware</mark> <mark>Motion capture system</mark> <mark>CAD design</mark> <mark>Research</mark>
+
+            Software architecture:   
+            ![Software architecture](/images/software_architecture.png "Software architecture")
+
+            
+
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
