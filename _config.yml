@@ -96,7 +96,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             In the context of rehabilitating disabled people, my goal was to design and develop an autonomous quadrotor table tennis player. This poject involved pushing the boundaries in terms of aggressive control and precise trajectory tracking for quadrotors.    
 
-            I published an it [article](https://www.sciencedirect.com/science/article/abs/pii/S0957415821000015#!){:target="_blank" rel="noopener"} about in Mechatronics Journal. 
+            I published an [article](https://www.sciencedirect.com/science/article/abs/pii/S0957415821000015#!){:target="_blank" rel="noopener"} about it in Mechatronics Journal. 
 
             Skills: <mark>C++</mark> <mark>Python</mark> <mark>ROS</mark> <mark>Gazebo</mark> <mark>Ubuntu</mark> <mark>Control algorithms</mark> <mark>iLQR</mark> <mark>Robotics hardware</mark> <mark>Motion capture system</mark> <mark>CAD design</mark> <mark>Research</mark>
 
