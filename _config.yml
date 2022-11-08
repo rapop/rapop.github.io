@@ -72,7 +72,7 @@ content:
 
             Skills: <mark>C++</mark> <mark>Python</mark> <mark>Ubuntu</mark> <mark>Cmake</mark> <mark>Algorithms</mark> <mark>SOLID design</mark> <mark>Gtest</mark> <mark>Gmock</mark> <mark>pytest</mark> <mark>Git</mark> <mark>Agile (retro, daily, planning, sprint reviews)</mark> <mark>Multithreading</mark> <mark>Networking</mark> <mark>OMPL</mark> <mark>Moveit</mark> <mark>Docker</mark> <mark>Robotics simulation</mark>
 
-            ![](/images/paintrobot.jpg){: width="80%"} 
+            ![](/images/paintrobot.jpg){: width="80%" .align-center}
 
       - layout: left
         title: Humanitas Solutions
@@ -183,13 +183,13 @@ content:
 
       Transfagarasan, Romania  
 
-      ![](/images/hike1.jpg){: width="50%"}
+      ![](/images/hike1.jpg){: width="50%" .align-center}}
 
-      ![](/images/hike2.jpg){: width="50%"}
+      ![](/images/hike2.jpg){: width="50%" .align-center}}
 
       Blade Runner 2022
 
-      ![](/images/blade.jpg){: width="50%"}
+      ![](/images/blade.jpg){: width="50%" .align-center}}
 
 
 # Footer
