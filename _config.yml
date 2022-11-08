@@ -72,6 +72,8 @@ content:
 
             Skills: <mark>C++</mark> <mark>Python</mark> <mark>Ubuntu</mark> <mark>Cmake</mark> <mark>Algorithms</mark> <mark>SOLID design</mark> <mark>Gtest</mark> <mark>Gmock</mark> <mark>pytest</mark> <mark>Git</mark> <mark>Agile (retro, daily, planning, sprint reviews)</mark> <mark>Multithreading</mark> <mark>Networking</mark> <mark>OMPL</mark> <mark>Moveit</mark> <mark>Docker</mark> <mark>Robotics simulation</mark>
 
+            ![](/images/paintingrobot.jpg){: width="80%"}
+
       - layout: left
         title: Humanitas Solutions
         link: humanitas.io
@@ -84,6 +86,8 @@ content:
             During the 2020 pandemic, I helped create a geolocation solution for indoor localization of doctors and patients in hospitals.
 
             Skills:  <mark>C++</mark> <mark>C programming for embedded DWM1001 modules</mark> <mark>Python</mark> <mark>Ubuntu</mark> <mark>UWB</mark> <mark>Range-based localization algorithms</mark> <mark>Docker</mark> <mark>Git</mark>  <mark>Gazebo</mark> <mark>Robotics simulation</mark>
+
+            ![](/images/triangulation.pnj){: width="80%"}
 
       - layout: left
         title: Intelligent Systems and Mechatronics Lab
