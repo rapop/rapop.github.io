@@ -115,7 +115,7 @@ content:
         title: Decentralized autonomous lawn mower
         link: github.com/rapop/decentralized-autonomouse-mower-service
         # link_text: Project Website
-        # additional_links:
+        additional_links:
           - title:  gihub page for project
             icon: fab fa-github
             url: github.com/rapop/decentralized-autonomouse-mower-service
