@@ -72,7 +72,7 @@ content:
 
             Skills: <mark>C++</mark> <mark>Python</mark> <mark>Ubuntu</mark> <mark>Cmake</mark> <mark>Algorithms</mark> <mark>SOLID design</mark> <mark>Gtest</mark> <mark>Gmock</mark> <mark>pytest</mark> <mark>Git</mark> <mark>Agile (retro, daily, planning, sprint reviews)</mark> <mark>Multithreading</mark> <mark>Networking</mark> <mark>OMPL</mark> <mark>Moveit</mark> <mark>Docker</mark> <mark>Robotics simulation</mark>
 
-            ![](/images/paintrobot.png){: width="80%"}
+            ![](/images/paintrobot.png){: width="80%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
       - layout: left
         title: Humanitas Solutions
@@ -87,7 +87,7 @@ content:
 
             Skills:  <mark>C++</mark> <mark>C programming for embedded DWM1001 modules</mark> <mark>Python</mark> <mark>Ubuntu</mark> <mark>UWB</mark> <mark>Range-based localization algorithms</mark> <mark>Docker</mark> <mark>Git</mark>  <mark>Gazebo</mark> <mark>Robotics simulation</mark>
 
-            ![](/images/triangulation.png){: width="80%"} 
+            ![](/images/triangulation.png){: width="60%"}{: style="display:block; margin-left: auto; margin-right: auto;"} 
 
       - layout: left
         title: Intelligent Systems and Mechatronics Lab
@@ -106,13 +106,13 @@ content:
 
             Software architecture:   
             
-            ![Software architecture](/images/software_architecture.png "Software architecture"){: width="80%"}
+            ![Software architecture](/images/software_architecture.png "Software architecture"){: width="80%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
             Hitting motion in simulation and on the real quadrotor:
 
-            ![VREP simulation](/images/Vrep_simulation.gif "VREP simulation"){: width="80%"}   
+            ![VREP simulation](/images/Vrep_simulation.gif "VREP simulation"){: width="80%"}{: style="display:block; margin-left: auto; margin-right: auto;"}   
 
-            ![Hitting motion](/images/hitting_motion.gif "Hitting motion"){: width="80%"}
+            ![Hitting motion](/images/hitting_motion.gif "Hitting motion"){: width="80%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
 
   - title: Other projects # Title for the section
@@ -136,14 +136,14 @@ content:
 
           Skills: <mark>C++</mark> <mark>Python</mark> <mark>ROS</mark> <mark>Gazebo</mark> <mark>Ubuntu</mark> <mark>Control algorithms</mark> <mark>Solidity</mark> <mark>Brownie</mark> <mark>Chainlink external adapters</mark>
 
-          ![Autonomous Lawn Mower](/images/autonomous_mower.png "Autonomous Lawn Mower"){: width="50%"}
+          ![Autonomous Lawn Mower](/images/autonomous_mower.png "Autonomous Lawn Mower"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
           Prizes:
 
           - WINNER Chainlink Top Quality Projects [$750 each]
           - WINNER Filecoin - Runners up - $12,500 [$1000 each]
 
-          ![Chainlink Hackathon](/images/chainlink.png "Chainlink Hackathon"){: width="30%"}
+          ![Chainlink Hackathon](/images/chainlink.png "Chainlink Hackathon"){: width="30%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
 
   - title: Education # Title for the section
@@ -185,11 +185,11 @@ content:
 
       ![](/images/hike1.jpg){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
-      ![](/images/hike2.jpg){: width="50%"}
+      ![](/images/hike2.jpg){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
       Blade Runner 2022
 
-      ![](/images/blade.jpg){: width="50%"}
+      ![](/images/blade.jpg){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
 
 # Footer
