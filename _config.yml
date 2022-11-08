@@ -128,9 +128,16 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This is probably one thing robots should do instead of humans! 
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I did this project in a team of 2 wanting to grow it in a viable product (at least the part without the blockchain technology). We also participated at the 2022 Chainlink Spring Hackathon and won multiple prizes! Check it out on [devpost](https://devpost.com/software/decentralized-autonomous-lawn-mower){:target="_blank" rel="noopener"}.
+
+          ![Chainlink Hackathon](/images/chainlink.png "Chainlink Hackathon")
+
+          Prizes:
+
+          - WINNER Chainlink Top Quality Projects [$750 each]
+          - WINNER Filecoin - Runners up - $12,500 [$1000 each]
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
