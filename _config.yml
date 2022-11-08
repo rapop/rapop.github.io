@@ -28,7 +28,7 @@ github_username:  rapop
 linkedin_username: radu-popescu-920479114
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: watch?v=7d_N0LZcuzk&ab_channel=RaduPopescu
+youtube_username: profreestylefoot
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -94,7 +94,7 @@ content:
         quote: >
           Changing people's lives with robotics.  
         description: | # this will include new lines to allow paragraphs
-            In the context of rehabilitating disabled people, my goal was to design and develop an autonomous quadrotor table tennis player. This poject involved pushing the boundaries in terms of aggressive control and precise trajectory tracking for quadrotors.    
+            In the context of rehabilitating disabled people, my goal was to design and develop an autonomous quadrotor table tennis player. This project involved pushing the boundaries in terms of aggressive control and precise trajectory tracking for quadrotors.    
 
             I published an [article](https://www.sciencedirect.com/science/article/abs/pii/S0957415821000015#!){:target="_blank" rel="noopener"} about it in Mechatronics Journal. 
 
@@ -106,7 +106,7 @@ content:
 
             Hitting motion in simulation and on the real quadrotor:
 
-            ![VREP simulation](/images/Vrep_simulation.gif "VREP simulation"){: width="80%"}   
+            ![VREP simulation](/images/gazebo_sim.gif "VREP simulation"){: width="80%"}   
 
             ![Hitting motion](/images/hitting_motion.gif "Hitting motion"){: width="80%"}
 
