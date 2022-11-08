@@ -100,12 +100,8 @@ content:
 
             Skills: <mark>C++</mark> <mark>Python</mark> <mark>ROS</mark> <mark>Gazebo</mark> <mark>Ubuntu</mark> <mark>Control algorithms</mark> <mark>iLQR</mark> <mark>Robotics hardware</mark> <mark>Motion capture system</mark> <mark>CAD design</mark> <mark>Research</mark>
 
-
-
             Software architecture:   
             ![Software architecture](/images/software_architecture.png "Software architecture")
-
-
 
             Hitting motion in simulation and on the real quadrotor:
             ![VREP simulation](/images/Vrep_simulation.gif "VREP simulation")   
@@ -130,6 +126,9 @@ content:
           This is probably one thing robots should do instead of humans! 
         description: | # this will include new lines to allow paragraphs
           I did this project in a team of 2 wanting to grow it in a viable product (at least the part without the blockchain technology). We also participated at the 2022 Chainlink Spring Hackathon and won multiple prizes! Check it out on [devpost](https://devpost.com/software/decentralized-autonomous-lawn-mower){:target="_blank" rel="noopener"}.
+
+          Skills: <mark>C++</mark> <mark>Python</mark> <mark>ROS</mark> <mark>Gazebo</mark> <mark>Ubuntu</mark> <mark>Control algorithms</mark>
+
 
           ![Chainlink Hackathon](/images/chainlink.png "Chainlink Hackathon")
 
