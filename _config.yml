@@ -101,9 +101,11 @@ content:
             Skills: <mark>C++</mark> <mark>Python</mark> <mark>ROS</mark> <mark>Gazebo</mark> <mark>Ubuntu</mark> <mark>Control algorithms</mark> <mark>iLQR</mark> <mark>Robotics hardware</mark> <mark>Motion capture system</mark> <mark>CAD design</mark> <mark>Research</mark>
 
             Software architecture:   
+            
             ![Software architecture](/images/software_architecture.png "Software architecture")
 
             Hitting motion in simulation and on the real quadrotor:
+
             ![VREP simulation](/images/Vrep_simulation.gif "VREP simulation")   
             ![Hitting motion](/images/hitting_motion.gif "Hitting motion")
 
