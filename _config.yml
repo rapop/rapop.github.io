@@ -102,13 +102,13 @@ content:
 
             Software architecture:   
             
-            ![Software architecture](/images/software_architecture.png "Software architecture")
+            ![Software architecture](/images/software_architecture.png "Software architecture"){: width="50%"}
 
             Hitting motion in simulation and on the real quadrotor:
 
-            ![VREP simulation](/images/Vrep_simulation.gif "VREP simulation")   
+            ![VREP simulation](/images/Vrep_simulation.gif "VREP simulation"){: width="50%"}   
 
-            ![Hitting motion](/images/hitting_motion.gif "Hitting motion")
+            ![Hitting motion](/images/hitting_motion.gif "Hitting motion"){: width="50%"}
 
 
   - title: Other projects # Title for the section
@@ -132,14 +132,15 @@ content:
 
           Skills: <mark>C++</mark> <mark>Python</mark> <mark>ROS</mark> <mark>Gazebo</mark> <mark>Ubuntu</mark> <mark>Control algorithms</mark> <mark>C++</mark>
 
-          ![Autonomous Lawn Mower](/images/autonomous_mower.png "Autonomous Lawn Mower")
-
-          ![Chainlink Hackathon](/images/chainlink.png "Chainlink Hackathon"| width=100)
+          ![Autonomous Lawn Mower](/images/autonomous_mower.png "Autonomous Lawn Mower"){: width="50%"}
 
           Prizes:
 
           - WINNER Chainlink Top Quality Projects [$750 each]
           - WINNER Filecoin - Runners up - $12,500 [$1000 each]
+
+          ![Chainlink Hackathon](/images/chainlink.png "Chainlink Hackathon"){: width="50%"}
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
