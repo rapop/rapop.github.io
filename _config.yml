@@ -119,11 +119,10 @@ content:
         title: Decentralized autonomous lawn mower
         link: github.com/rapop/decentralized-autonomouse-mower-service
         # link_text: Project Website
-        icon: fab fa-github
         # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
+          - title:  gihub page for project
+            icon: fab fa-github
+            url: github.com/rapop/decentralized-autonomouse-mower-service
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
