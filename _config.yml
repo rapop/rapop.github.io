@@ -134,7 +134,7 @@ content:
 
           ![Autonomous Lawn Mower](/images/autonomous_mower.png "Autonomous Lawn Mower")
 
-          ![Chainlink Hackathon](/images/chainlink.png "Chainlink Hackathon")
+          ![Chainlink Hackathon](/images/chainlink.png "Chainlink Hackathon"| width=100)
 
           Prizes:
 
@@ -145,9 +145,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Ecole Polytechnique de Montreal
+        caption: 2019 - 2020
+        sub_title: MSc Robotics
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
