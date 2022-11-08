@@ -102,13 +102,13 @@ content:
 
             Software architecture:   
             
-            ![Software architecture](/images/software_architecture.png "Software architecture"){: width="50%"}
+            ![Software architecture](/images/software_architecture.png "Software architecture"){: width="80%"}
 
             Hitting motion in simulation and on the real quadrotor:
 
-            ![VREP simulation](/images/Vrep_simulation.gif "VREP simulation"){: width="50%"}   
+            ![VREP simulation](/images/Vrep_simulation.gif "VREP simulation"){: width="80%"}   
 
-            ![Hitting motion](/images/hitting_motion.gif "Hitting motion"){: width="50%"}
+            ![Hitting motion](/images/hitting_motion.gif "Hitting motion"){: width="80%"}
 
 
   - title: Other projects # Title for the section
@@ -139,7 +139,7 @@ content:
           - WINNER Chainlink Top Quality Projects [$750 each]
           - WINNER Filecoin - Runners up - $12,500 [$1000 each]
 
-          ![Chainlink Hackathon](/images/chainlink.png "Chainlink Hackathon"){: width="50%"}
+          ![Chainlink Hackathon](/images/chainlink.png "Chainlink Hackathon"){: width="30%"}
 
 
   - title: Education # Title for the section
@@ -149,28 +149,43 @@ content:
         title: Ecole Polytechnique de Montreal
         caption: 2019 - 2020
         sub_title: MSc Robotics
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          I had some courses in robotics and optimal control but most of my time was invested towards research. 
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I was a member of *Elikos*, an engineering student club in the field of aerial robotics who participates in the
+          Unmanned Systems Canada Student annual competition. 
+
+      - layout: left
+        title: Ecole Polytechnique de Montreal
+        caption: 2014 - 2018
+        sub_title: BEng Aerospace Engineering
+        description: | # this will include new lines to allow paragraphs
+          Mention of Excellence for outstanding academic results.
+
+          I did an engineering internship at [Bombardier](https://bombardier.com) {:target="_blank" rel="noopener"} which is one of the biggest aircraft manufacturer. 
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in robotics and software engineering some of my other interests and hobbies are:
 
-      - Rock climbing
+      - Bodybuilding
 
-      - Gaming
+      - Hicking
 
-      - Knitting
+      - Traveling
 
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Watching high quality cinematographic movies
 
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      Transfagarasan, Romania  
+
+      ![](/images/hike1.jpg)
+
+      ![](/images/hike2.jpg)
+
+      Blade Runner 2022
+      ![](/images/blade.jpg)
+
 
 # Footer
 footer_show_references: false
