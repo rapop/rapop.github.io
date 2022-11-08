@@ -130,7 +130,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I did this project in a team of 2 wanting to grow it in a viable product (at least the part without the blockchain technology). We also participated at the 2022 Chainlink Spring Hackathon and won multiple prizes! Check it out on [devpost](https://devpost.com/software/decentralized-autonomous-lawn-mower){:target="_blank" rel="noopener"}.
 
-          Skills: <mark>C++</mark> <mark>Python</mark> <mark>ROS</mark> <mark>Gazebo</mark> <mark>Ubuntu</mark> <mark>Control algorithms</mark> <mark>C++</mark>
+          Skills: <mark>C++</mark> <mark>Python</mark> <mark>ROS</mark> <mark>Gazebo</mark> <mark>Ubuntu</mark> <mark>Control algorithms</mark> <mark>Solidity</mark> <mark>Brownie</mark> <mark>Chainlink external adapters</mark>
 
           ![Autonomous Lawn Mower](/images/autonomous_mower.png "Autonomous Lawn Mower"){: width="50%"}
 
@@ -162,7 +162,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Mention of Excellence for outstanding academic results.
 
-          I did an engineering internship at [Bombardier](https://bombardier.com) {:target="_blank" rel="noopener"} which is one of the biggest aircraft manufacturer. 
+          I did an engineering internship at [Bombardier](https://bombardier.com){:target="_blank" rel="noopener"} which is one of the biggest aircraft manufacturer. 
 
   - title: A Little More About Me
     layout: text
