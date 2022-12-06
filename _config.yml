@@ -144,7 +144,25 @@ content:
           - WINNER Filecoin - Runners up - $12,500 [$1000 each]
 
           ![Chainlink Hackathon](/images/chainlink.png "Chainlink Hackathon"){: width="30%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+      - layout: top-middle
+        title: Bounding Box Object Detection in ROS2
+        link: github.com/rapop/camera_detection_assignment
+        # link_text: Project Website
+        additional_links:
+          - title:  gihub page for project
+            icon: fab fa-github
+            url: github.com/rapop/camera_detection_assignment
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Exploring ROS2
 
+          Skills: <mark>ROS2</mark> <mark>Gazebo</mark> <mark>tf2</mark> <mark>C++</mark> <mark>Python</mark> <mark>Ubuntu</mark>
+
+          ![Object Detection Far](/images/object_detection_far.gif "Object Detection Far"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+
+          ![Object Detection Near](/images/object_detection_near.gif "Object Detection Near"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
