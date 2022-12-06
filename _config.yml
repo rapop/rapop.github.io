@@ -157,7 +157,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Exploring ROS2
-
+        description: |
           Skills: <mark>ROS2</mark> <mark>Gazebo</mark> <mark>tf2</mark> <mark>C++</mark> <mark>Python</mark> <mark>Ubuntu</mark>
 
           ![Object Detection Far](/images/object_detection_far.gif "Object Detection Far"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
