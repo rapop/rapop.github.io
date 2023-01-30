@@ -155,8 +155,6 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Exploring ROS2
         description: |
           Skills: <mark>ROS2</mark> <mark>Gazebo</mark> <mark>tf2</mark> <mark>C++</mark> <mark>Python</mark> <mark>Ubuntu</mark>
 
